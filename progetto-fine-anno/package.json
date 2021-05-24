@@ -1,0 +1,14 @@
+{
+  "name": "progetto-fine-anno",
+  "version": "1.0.0",
+  "description": "progetto di  fine anno ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zenti Marco",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
